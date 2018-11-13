@@ -1,0 +1,28 @@
+ #LogoSE {
+ 	margin-left: 50px; 
+ 	float: left;
+ }
+   nav {
+    background-color: none;
+    padding:0.3rem;
+  }
+  #menu {
+    text-align: center; /* Permet de centrer un élément, malgré la mention 'text'*/
+    background-color: none;
+   }
+  #menu li {
+    display:inline-block;
+    margin-left:0.5rem;
+  }
+  #menu li:first-child{ /*Permet de ne sélectionner que le premier enfant d'une ligne et d'appliquer des paramètres différents.*/
+    margin-left: 0rem;
+  }
+  #menu a {
+    color:inherit; /*Couleur inhérente, si parent une couleur, applique la couleur aux enfants*/
+    text-decoration:none;/*Changer une couleur de texte de façon générale, pas forcément d'une police*/
+    padding:0.5rem 0.3rem;
+    box-shadow:0/*Décallage vertical*/ 0/*décallage horizontal*/  0.3rem/*Flou*/  var(--color1) /*couleur*/ inset;/*Pour inclure l'ombrage à l'intérieur de l'élément et non pas à l'extérieur.*/
+    border-radius:.4rem;
+  }
+
+ 
