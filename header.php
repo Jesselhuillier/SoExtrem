@@ -1,3 +1,4 @@
+<?php include '../../../wp-load.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>

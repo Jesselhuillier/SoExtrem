@@ -123,6 +123,10 @@ Version: 1.1
   padding: 5.5px 44px;
 }
 
+.header__bottom__nav :hover ul li a {
+  font-color: #6fc3b8;
+}
+
 .header__bottom__nav ul li a:visited {
   color: white;
 }
@@ -398,10 +402,9 @@ Version: 1.1
 
 
 
-
-
-
 /**Page Activités**/
+
+
 
 
 .nos_activités{
@@ -483,16 +486,57 @@ Version: 1.1
   font-style: italic;
 }
 
+
+
+/**Page Activité Soufflerie**/
+
+
+.fiche-activité {
+  display:flex;
+  justify-content:space-between;
+  flex-flow: column;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.fiche-activité__titre{
+  color: #e95121;
+  font-family: 'Arial';
+  text-transform: uppercase;
+  margin-right: 50px;
+}
+
+.fiche-activité__bandeau{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: 50px; 
+}
+
+.fiche-ativité__bandeau img{
+ height: 400px;
+}
+
+
+.fiche-activité__slogan{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.fiche-activité__slogan p {
+  text-align: center;
+  font-family: 'Arial';
+  font-weight: 700;
+}
+
+
+
+
+
 /** déclaration de la font spéciale ErasBoldITC**/
 @font-face {
   font-family:"SoExtrem";
   src :url('ErasBoldITC.ttf');
 }
-
-/**
-
-Pour la nav header__bottom :
-  - background-color: grey;
-    - nav: background-color: white;
-      - liens : background-color: grey;
-*/
