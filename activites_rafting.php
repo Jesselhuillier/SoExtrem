@@ -10,13 +10,13 @@
 <body>
 	<div class="fiche-activité">
 		<h2 class="fiche-activité__titre">
-			La Soufflerie
+			Le rafting
 		</h2>
 		<div class="fiche-activité__bandeau">
 			<img src="<?php echo get_stylesheet_directory_uri(); ?>/verdon1.jpg">
 		</div>
 		<div class="fiche-activité__slogan">
-			<p>Une nouvelle façon de voler	
+			<p>Au coeur des gorges
 			</p>
 		</div>
 		<div class="fiche-activité__details">

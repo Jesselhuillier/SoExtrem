@@ -6,6 +6,10 @@ Description:SoExtrem
 Version: 1.1
  */
 
+html {
+  background-color: white;
+}
+
 /*Page Acceuil**/
 
 
@@ -13,7 +17,7 @@ Version: 1.1
   display: flex;
   width: 100%;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-between;  
 }
 
 .header__top {
@@ -100,16 +104,22 @@ Version: 1.1
   background-color:white;
 }
 
+.header__bottom__nav {
+  display: flex;
+  flex-flow: row;
+}
+
 .header__bottom__nav ul {
   list-style: none;
   margin: 0;
+  padding-left: 15px;
   width: 100%;
+  justify-content: space-between;
 }
 
 .header__bottom__nav ul li {
   display: inline-block;
   padding: 5px 10px;
-  justify-content: space-between;
   flex-grow: 1;
 }
 
@@ -123,8 +133,8 @@ Version: 1.1
   padding: 5.5px 44px;
 }
 
-.header__bottom__nav :hover ul li a {
-  font-color: #6fc3b8;
+.header__bottom__nav:hover {
+  color: #63b7b0;
 }
 
 .header__bottom__nav ul li a:visited {
@@ -409,11 +419,11 @@ Version: 1.1
 
 .nos_activités{
   display:flex;
-  width: 100%;
   flex-flow: column;
   margin-left: 50px;
   margin-right: 50px;
   justify-content: space-between;
+
 }
 
 .nos_activités__titre{
@@ -488,7 +498,7 @@ Version: 1.1
 
 
 
-/**Page Activité Soufflerie**/
+/**Page Activité**/
 
 
 .fiche-activité {
@@ -531,12 +541,215 @@ Version: 1.1
   font-weight: 700;
 }
 
+.fiche-activité__details{
+  display: flex;
+  flex-flow: row;
+  width: 100%;
+  font-family: 'Arial';
+  justify-content: space-between;
+}
+
+.fiche-activité__détails__left{
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.fiche-activité__détails__right{
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.fiche-activité__details__left__image{
+  display: flex;
+  width: 100%;
+}
+
+.fiche-activité__details__left__image img {
+  width: 500px;
+  height: 250px;
+}
+
+.fiche-activité__details__left__infos {
+  width: 500px;
+}
+
+.fiche-activité__details__right__pres {
+  width: 500px;
+}
+
+.fiche-activité__details__right__plan{
+  display: flex;
+  width: 100%;
+}
+
+.fiche-activité__details__right__plan img {
+  width: 500px;
+  height: 250px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.fiche-activité__details__right__button {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.fiche-activité__details__right__button a{
+  display: inline-block;
+  background-color:#e95121;
+  color: white;
+  font-size: 40px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  height: 50px;
+  width:250px;
+  font-weight: 500;
+  text-align: center;
+  font-family:'SoExtrem';
+  font-style: italic;
+}
 
 
 
+/**Page Nous contacter**/
+
+
+
+.contact {  
+  display:flex;
+  flex-flow: column;
+  margin-left: 50px;
+  margin-right: 50px;
+  justify-content: space-between;
+} 
+
+.contact img{
+  width: 100%;
+}
+
+.contact__titre {
+  color: #e95121;
+  font-family: 'Arial';
+  text-transform: uppercase;
+  margin-right: 50px;
+}
+
+.contact__bottom {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row;
+}
+
+.contact__left {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: column;
+}
+
+.contact__left__top {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row;
+}
+
+.contact__left__top__coordonnees {
+  display: flex;
+  font-family: 'Arial';
+  flex-flow: column;
+  justify-content: flex-start;
+}
+
+.contact__left__top__coordonnees p {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.contact__left__top__coordonnees ul {
+  list-style: none;
+  margin: 0;
+}
+
+.contact__left__top__coordonnees ul li {
+  padding: 5px 10px;
+}
+
+.contact__left__top__horaires {
+  display: flex;
+  font-family: 'Arial';
+  flex-flow: column;
+  justify-content: flex-start;
+}
+
+.contact__left__top__horaires p {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.contact__left__top__horaires ul {
+  list-style: none;
+  margin: 0;
+}
+
+.contact__left__top__horaires ul li {
+  padding: 5px 10px;
+}
+
+.contact__left__bottom {
+  display: flex;
+  font-family: 'Arial';
+}
+
+.contact__right{
+  display: flex;
+  justify-content: space-between;
+  flex-flow: column;
+  align-items: flex-end;
+}
+
+.contact__right__top{
+  display:flex;
+  justify-content: space-between;
+}
+
+.contact__right__top img {
+  width: 500px;
+  height: 250px;
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
+
+.contact__right__bottom__links a {
+  background-color:#e95121;
+  color: white;
+  font-size: 40px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  height: 50px;
+  width:250px;
+  font-weight: 500;
+  text-align: center;
+  font-family:'SoExtrem';
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contact__right__bottom__links {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-flow: column;
+}
 
 /** déclaration de la font spéciale ErasBoldITC**/
 @font-face {
-  font-family:"SoExtrem";
+  font-family:'SoExtrem';
   src :url('ErasBoldITC.ttf');
 }

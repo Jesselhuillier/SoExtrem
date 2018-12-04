@@ -1,11 +1,3 @@
-<?php include '../../../wp-load.php'; ?>
-<!DOCTYPE html>
-<html>
-<head>
-	<title>So'Extrem</title>
-</head>
-<body>
-
 <footer class="footer">
 	<nav class="footer__legal">
 		<ul>
@@ -31,5 +23,3 @@
 		<img src="<?php echo get_stylesheet_directory_uri(); ?>/logofooter.png">	
 	</div>
 </footer>
-</body>
-</html>

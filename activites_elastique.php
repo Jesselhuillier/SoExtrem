@@ -10,19 +10,19 @@
 <body>
 	<div class="fiche-activité">
 		<h2 class="fiche-activité__titre">
-			La Soufflerie
+			L'elastique
 		</h2>
 		<div class="fiche-activité__bandeau">
 			<img src="<?php echo get_stylesheet_directory_uri(); ?>/verdon1.jpg">
 		</div>
 		<div class="fiche-activité__slogan">
-			<p>Une nouvelle façon de voler	
+			<p>Osez le grand saut
 			</p>
 		</div>
 		<div class="fiche-activité__details">
 			<div class="fiche-activité__details__left">
 				<div class="fiche-activité__details__left__image">
-					<img src="<?php echo get_stylesheet_directory_uri(); ?>/plan-soextreme.jpg">
+					<img src="<?php echo get_stylesheet_directory_uri(); ?>/verdon1.jpg">
 				</div>
 				<div class="fiche-activité__details__left__infos">
 					<h1>
@@ -57,7 +57,7 @@
 					Nequi  dolupta  poriatqui  nectatur  arum  recatenia  dipsae  dunt  eos  dolesti
 				</div>
 				<div class="fiche-activité__details__right__plan">
-					<img src="<?php echo get_stylesheet_directory_uri(); ?>/verdon1.jpg">		
+					<img src="<?php echo get_stylesheet_directory_uri(); ?>/plan-soextreme.jpg">		
 				</div>
 				<div class="fiche-activité__details__right__button">
 					<a href="#">Reserver !</a>

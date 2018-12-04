@@ -49,15 +49,15 @@
 			</div>
 			<div class="nos_activités__activité__info">
 				<div class="nos_activités__activité__info__pres">
-				<p>LE KAYAK</br>
-					En eau turquoise</br>
+				<p>LE PARACHUTE</br>
+					Prenez de la hauteur</br>
 				</p>
 				<p>Petit texte de présentartion de l'activité.</br>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						
-					<a href="">+ d'infos</a>
+					<a href="<?php echo get_template_directory_uri(); ?>/activites_parachute.php">+ d'infos</a>
 				</div>					
 			</div>
 		</div>	
@@ -67,15 +67,15 @@
 			</div>
 			<div class="nos_activités__activité__info">
 				<div class="nos_activités__activité__info__pres">
-				<p>LE KAYAK</br>
-					En eau turquoise</br>
+				<p>L'ELASTIQUE'</br>
+					Osez le grand saut</br>
 				</p>
 				<p>Petit texte de présentartion de l'activité.</br>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						
-					<a href="">+ d'infos</a>
+					<a href="<?php echo get_template_directory_uri(); ?>/activites_elastique.php">+ d'infos</a>
 				</div>					
 			</div>
 		</div>	
@@ -85,15 +85,15 @@
 			</div>
 			<div class="nos_activités__activité__info">
 				<div class="nos_activités__activité__info__pres">
-				<p>LE KAYAK</br>
-					En eau turquoise</br>
+				<p>LE RAFTING</br>
+					au coeur des gorges</br>
 				</p>
 				<p>Petit texte de présentartion de l'activité.</br>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						
-					<a href="">+ d'infos</a>
+					<a href="<?php echo get_template_directory_uri(); ?>/activites_rafting.php">+ d'infos</a>
 				</div>					
 			</div>
 		</div>		
@@ -111,7 +111,7 @@
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						
-					<a href="">+ d'infos</a>
+					<a href="<?php echo get_template_directory_uri(); ?>/activites_kayak.php">+ d'infos</a>
 				</div>					
 			</div>
 		</div>		
