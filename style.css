@@ -133,7 +133,7 @@ html {
   padding: 5.5px 44px;
 }
 
-.header__bottom__nav:hover {
+.header__bottom__nav ul li a:hover {
   color: #63b7b0;
 }
 
@@ -443,6 +443,7 @@ html {
   width: 100%;
   margin-right: 50px;
   font-family: "Arial";
+  margin-bottom: 40px;
 }
 
 .nos_activités__activité{
@@ -471,6 +472,7 @@ html {
   height: 100%;
   margin-left: 5px;
   margin-right: 5px;
+  width: 100%;
 }
 
 .nos_activités__activité__info__pres{
@@ -581,17 +583,11 @@ html {
   width: 500px;
 }
 
-.fiche-activité__details__right__plan{
+.fiche-activité__details__right__tarifs{
   display: flex;
   width: 100%;
 }
 
-.fiche-activité__details__right__plan img {
-  width: 500px;
-  height: 250px;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
 
 .fiche-activité__details__right__button {
   display: flex;
@@ -747,6 +743,89 @@ html {
   width: 100%;
   flex-flow: column;
 }
+
+
+
+/** pages de tarification**/
+
+.tarifs{
+  display: flex;
+  margin-right: 50px;
+  margin-left: 50px;
+  flex-flow: column;
+  font-family: 'Arial';
+}
+.tarifs__details{
+  display: flex;
+  flex-flow: column;
+}
+
+.tarifs__details h3 {
+  text-transform: uppercase;
+  color: #e95121;
+}
+
+
+
+/** page Notre Equipe**/
+
+
+.equipe{
+  display: flex;
+  margin-right: 50px;
+  margin-left: 50px;
+  flex-flow: column;
+  font-family: 'Arial';
+}
+
+
+/**pages des mentions légales**/
+
+
+.mentions-legales{
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: 'Arial';
+}
+
+.mentions-legales h2{
+  color: #e95121;
+  text-transform: uppercase;
+}
+
+
+/** page panier**/
+
+
+.formulaire{
+  display: flex;
+  margin-right: 50px;
+  margin-left: 75px;
+  font-family: 'Arial';
+  justify-content: space-between;
+  flex-flow: column;
+}
+
+.formulaire input {
+  padding: 5px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+
+.recap_infos{
+  display: flex;
+  margin-right: 50px;
+  margin-left: 75px;
+  font-family: 'Arial';
+  justify-content: space-between;
+  flex-flow: column;
+  height: 100%;
+}
+
 
 /** déclaration de la font spéciale ErasBoldITC**/
 @font-face {
