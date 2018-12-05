@@ -38,12 +38,11 @@
 				</div>
 				<div class="contact__left__bottom">
 					<p>
-						Texte de présentation des activités et de So’Extrême.
-						At voluptat vel et omnis era simolor eruptatquat.
-						Tus id eos aut ipsandiciet, siti consequo consequiate corerum eum invellu ptatium iliciis porem quianusamenim dolupta tusanti aut laborererit voles dest doloreped quis moles-m earis volorrum in elition cumet dollaces sit ut preperu mquassi magnim arcimolor aset essim nat molorum dollicimus atius adi ipsae pro eatque estibus mos peribus, volum,sit, cor aut aut et re velibus culluptam quam ut es assit, volorru ptatemolupta dolorem nu-santiscia namus eri unt, to moluptatus, vid molumet aceatem quas el ipsum aut in ne panobiscim facipsam eos rem volorempelis reperitio conseque molorest isto veriore perferiadollut eiuntumquo bearcima apitist, ut ipicition con con rem que culparum in eaqui blab id oluptatur?
-						Id utem nimaiosandae sum fuga. Os consed qui tota velessit quo te nonserum inus et ut 
-						et es ute es e
-						</p>
+						Toute la team So’Extrême est à votre disposition pour toutes questions relatives aux activités proposées, aux disponibilités etc.
+						Merci de nous contacter aux horaires affichées par mail ou par télephone, nous nous tenons à votre disposition et nous ferons de notre mieux pour vous répondre dans les meilleurs délais ! <br>
+						A bientôt pour vivre des sensations inoubliables <br>
+						L'équipe So'Extrem <br>
+					</p>
 				</div>
 			</div>
 			<div class="contact__right">

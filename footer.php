@@ -2,9 +2,9 @@
 	<nav class="footer__legal">
 		<ul>
 			<li><a href="">A Propos</a></li>
-			<li><a href="">Contact</a></li>
-			<li><a href="">CGV</a></li>
-			<li><a href="">Confidentialité</a></li>
+			<li><a href="<?php echo get_template_directory_uri(); ?>/contact.php">Contact</a></li>
+			<li><a href="<?php echo get_template_directory_uri(); ?>/mentions-legales.php">CGV</a></li>
+			<li><a href="<?php echo get_template_directory_uri(); ?>/mentions-legales.php">Confidentialité</a></li>
 		</ul>	
 	</nav>
 	<div class="footer__follow">

@@ -14,28 +14,22 @@
 		</h2>
 		<div class="nos_activités__présentation">
 			<p class="nos_activités__présentation__text">
-				Texte de présentation des activités et du tourisme dans les Gorges du Verdon.</br>
-				Tusdae pa im velitatur as ellab ipid quas ipsapitionse recestemqui doluptatur?
-				Fuga. Pis aut acestio exped quo omnit quatinus pe perum ullaut etur, sitate nus andempore eatur, quos et odi vides nonsercius dolutae dolut fugita sin earcia velis dolenistiis</br>
-				estiasped que voluptia consecuptur sim cum at pore laborem oluptation ped quiatem sitium auditatur simoles cidest, quidem ea voluptiati doluptam ratiam harum que veraturiae </br>
-				con re none denihitat.
-				Cus adit laut eatiae commodia volenihil ex enit doluptur? Catem necturios molor sandunderci commos et quam nullabor anditatur aperovit earum, cusci beaquias aut aceperovid </br>
-				qui blabo. Nequibus doluptatio. Pore ma prest quassum et experit il ea viduntisquo tempe dolorati te cum reicidis etur?
-				Luptat modicit essin rerio te aliciet ut aut magnimolorem ipit quam nus, totatqui doluptatur rerupta tiscima ionsequibus dolut eaqui totatur am, si dererorum excepti onsedi blanihi </br>
-				llatibus autem vollupt atione nonsero optas sit et verum quodis sequas cus enis es minum alitiis et plit officientore nis autento ea</br>
+				Trouver ici l’activité ou les activités extrêmes que vous désirez !<br>
+				Envie de vous lancer dans le vide durant une minute qui sera surement une des plus belles de votre vie ? Découvrir la beauté de la nature, des plans d’eaux de la région ? …<br>
+				Nos cinq activités proposées, garantissent de vivre des sensations fortes !<br>
+				Alors, il ne vous reste plus qu’à sélectionner celle qui vous donne le plus envie et à bientôt dans notre enseigne.<br>
 			</p>
 		</div>
 		<div class="nos_activités__activité">
 			<div class="nos_activités__activité__img">
-				<img src="verdon1.jpg">
+				<img src="SOUFFLERIE/soufflerie-so-extreme-1.jpg">
 			</div>
 			<div class="nos_activités__activité__info">
 				<div class="nos_activités__activité__info__pres">
 				<p>LA SOUFFLERIE</br>
 					Une nouvelle façon de voler</br>
 				</p>
-				<p>Petit texte de présentartion de l'activité.</br>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				<p>Envie de sauter en parachute, mais vous avez peur du vide ? 
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						
@@ -45,15 +39,14 @@
 		</div>
 		<div class="nos_activités__activité">
 			<div class="nos_activités__activité__img">
-				<img src="verdon1.jpg">
+				<img src="PARACHUTE/parachute-so-extreme-1.jpg">
 			</div>
 			<div class="nos_activités__activité__info">
 				<div class="nos_activités__activité__info__pres">
 				<p>LE PARACHUTE</br>
 					Prenez de la hauteur</br>
 				</p>
-				<p>Petit texte de présentartion de l'activité.</br>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				<p>Caresser les nuages, avoir une vision 360° de la région aux abords d’un pilatus le temps de quelques minutes !
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						
@@ -63,15 +56,15 @@
 		</div>	
 		<div class="nos_activités__activité">
 			<div class="nos_activités__activité__img">
-				<img src="verdon1.jpg">
+				<img src="ELASTIQUE/saut-elastique-so-extreme-1.jpg">
 			</div>
 			<div class="nos_activités__activité__info">
 				<div class="nos_activités__activité__info__pres">
-				<p>L'ELASTIQUE'</br>
+				<p>L'ELASTIQUE</br>
 					Osez le grand saut</br>
 				</p>
-				<p>Petit texte de présentartion de l'activité.</br>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				<p>Vivez des sensations uniques dans le cadre grandiose des Gorges du
+					Verdon grâce au saut à l’élastique depuis le pont de l’Artuby.
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						
@@ -81,15 +74,14 @@
 		</div>	
 		<div class="nos_activités__activité">
 			<div class="nos_activités__activité__img">
-				<img src="verdon1.jpg">
+				<img src="RAFTING/rafting-so-extreme-1.jpg">
 			</div>
 			<div class="nos_activités__activité__info">
 				<div class="nos_activités__activité__info__pres">
 				<p>LE RAFTING</br>
 					au coeur des gorges</br>
 				</p>
-				<p>Petit texte de présentartion de l'activité.</br>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				<p>Embarquez sur un bateau gonflable pour une aventure inoubliable.
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						
@@ -99,15 +91,14 @@
 		</div>		
 		<div class="nos_activités__activité">
 			<div class="nos_activités__activité__img">
-				<img src="verdon1.jpg">
+				<img src="KAYAK/kayak-so-extreme-1.jpg">
 			</div>
 			<div class="nos_activités__activité__info">
 				<div class="nos_activités__activité__info__pres">
 				<p>LE KAYAK</br>
 					En eau turquoise</br>
 				</p>
-				<p>Petit texte de présentartion de l'activité.</br>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				<p>Découvrez les sensations du kayak en eau-vive dans les Gorges du Verdon.
 				</p>
 				</div>
 				<div class="nos_activités__activité__info__btn">						

@@ -13,7 +13,7 @@
 			Le parachute
 		</h2>
 		<div class="fiche-activité__bandeau">
-			<img src="<?php echo get_stylesheet_directory_uri(); ?>/verdon1.jpg">
+			<img src="<?php echo get_stylesheet_directory_uri(); ?>/PARACHUTE/parachute-so-extreme-2.jpg">
 		</div>
 		<div class="fiche-activité__slogan">
 			<p>Prenez de la hauteur	
@@ -22,45 +22,35 @@
 		<div class="fiche-activité__details">
 			<div class="fiche-activité__details__left">
 				<div class="fiche-activité__details__left__image">
-					<img src="<?php echo get_stylesheet_directory_uri(); ?>/plan-soextreme.jpg">
+					<img src="<?php echo get_stylesheet_directory_uri(); ?>/PARACHUTE/parachute-so-extreme-3.jpg">
 				</div>
 				<div class="fiche-activité__details__left__infos">
-					<h1>
+					<h3>
 						INFORMATIONS
-					</h1>
+					</h3>
 					<p>
-						Informations à propose de l’activité, son fonctionnement, la sécurité etc..
-						Ipis nonsedia que sundand undaessundi dunt abo. Itatem eicipist, aspid molor a consed 
-						magnis nusanimust.
-						Maionet que quostiatem re autatiat maio.
-						Fugias  et  fuga.  Ligendesequo  te  coremos  sinveliquate  vende  volupta  tinimilit,  ium  rem  
-						quunt, non nusam aut venienimi, id maio. Eperitaecus aut vero voloris essim quae consed 
-						quis ipsam ium quam vendand esequaecae doluptatem.
-						Ro maxim di officto et quas con cor si accatis estior as atur?
-						Nequi dolupta poriatqui nectatur arum recatenia dipsae dunt eos dolestibus adit lati de-
-						lendit eos ent o
+						Pour pratiquer un saut en parachute il est impératif de remplir les conditions suivantes :<br>
+						Etre âgé(e) de 15 ans minimum, exigence d’une autorisation parentale jusqu’à 18 ans.<br>
+						Les individus de plus de 90kg se voient refuser l’accès à cette discipline, et tout particulièrement dans le cadre du saut en tandem. <br>
+						Une petite formation est toujours indispensable surtout avant un premier saut, et des vêtements confortables sont préconisés (jeans et baskets).<br>
+						Avoir un certificat médical, datant de moins de 3 mois, délivré par votre médecin traitant<br>
 					</p>
 				</div>
 			</div>
 			<div class="fiche-activité__details__right">
 				<div class="fiche-activité__details__right__pres">
-					Petit texte de présentation de l’activité.
-					Ipis  nonsedia  que  sundand  undaessundi  dunt  abo.  Itatem  eicipist,  aspid  
-					molor a consed magnis nusanimust.
-					Maionet que quostiatem re autatiat maio.
-					Fugias et fuga. Ligendesequo te coremos sinveliquate vende volupta tini-
-					milit,  ium  rem  quunt,  non  nusam  aut  venienimi,  id  maio.  Eperitaecus  aut  
-					vero voloris essim quae consed quis ipsam ium quam vendand esequae
-					-
-					cae doluptatem.
-					Ro maxim di officto et quas con cor si accatis estior as atur?
-					Nequi  dolupta  poriatqui  nectatur  arum  recatenia  dipsae  dunt  eos  dolesti
+					Caresser les nuages, avoir une vision 360° de la région aux abords d’un pilatus (avion Suisse) le temps de quelques minutes inoubliables. Seul(e) si vous êtes un pro ou en tamdem, nous vous offrons la possibilité de vivre une expérience inédite et des souvenirs à jamais graver dans les nuages. Accessible à tous dès l’âge de 15 ans.
 				</div>
-				<div class="fiche-activité__details__right__plan">
-					<img src="<?php echo get_stylesheet_directory_uri(); ?>/verdon1.jpg">		
+				<div class="fiche-activité__details__right__tarifs">
+					<p>
+						<b>Le saut en parachute en tandem</b> : à partir de 249 €*.<br>
+						<b>Le saut découverte PAC (1 saut)</b> : à partir de 390 €* .<br>
+						<b>La formation PAC complète 6/7 sauts</b> : à partir de 1150 €.<br>
+						<b>La vidéo gravure musicale sur DVD</b> : de 85 à 129 € <br>
+					</p>
 				</div>
 				<div class="fiche-activité__details__right__button">
-					<a href="#">Reserver !</a>
+					<a href="<?php echo get_template_directory_uri(); ?>/panier.php">+ Panier</a>
 				</div>
 			</div>			
 		</div>
